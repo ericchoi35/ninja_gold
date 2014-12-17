@@ -1,0 +1,24 @@
+.box{
+	height: 150px;
+	width: 250px;
+	border: 1px solid silver;
+	margin: 5px;
+	text-align: center;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+#activities{
+	border: 1px solid silver;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+	height: 200px;
+	overflow: scroll;
+	width: 1030px;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
